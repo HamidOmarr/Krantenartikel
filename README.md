@@ -1,1 +1,1 @@
-# Krantenartikel
+# LAB3-Krantenartikel
